@@ -39,4 +39,4 @@ testem.log
 Thumbs.db
 
 /application/settings.py
-db.sqlite3
+/db.sqlite3
